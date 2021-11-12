@@ -6,6 +6,8 @@ I was a backend developer for an OSS monitoring tool from 2009-2020, and share a
 
 Everything I learn on my journey is shared in blog posts, talks, workshops, live streams, newsletters, public issues and social media. I'm one of the founders of the [#EveryoneCanContribute cafe](https://everyonecancontribute.com/), a social tech coffee chat to learn together 💡 
 
+> Tip: [Add your own user profile README](https://docs.gitlab.com/ee/user/profile/#user-profile-readme) 💥 
+
 ## Social Profiles
 
 Follow me 👋 
