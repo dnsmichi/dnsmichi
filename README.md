@@ -1,91 +1,51 @@
-# Dnsmichi
+# Hi, I'm Michael aka dnsmichi
 
+I'm a Senior Developer Evangelist at GitLab, diving deep into all stages of the DevOps platform. 🦊 
 
+I was a backend developer for an OSS monitoring tool from 2009-2020, and share a passion for educating everyone with Monitoring, Observability, SRE in cloud native adventures. Before that I used to manage and monitor the DNS infrastructure at the University of Vienna, hence my nickname. 🏗
 
-## Getting started
+Everything I learn on my journey is shared in blog posts, talks, workshops, live streams, newsletters, public issues and social media. I'm one of the founders of the [#EveryoneCanContribute cafe](https://everyonecancontribute.com/), a social tech coffee chat to learn together 💡 
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+## Social Profiles
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+Follow me 👋 
 
-## Add your files
+- [@dnsmichi on Twitter](https://twitter.com/dnsmichi)
+- [@dnsmichi on LinkedIn](https://www.linkedin.com/in/dnsmichi/)
+- [@dnsmichi on Polywork](https://www.polywork.com/dnsmichi)
+- [Personal website dnsmichi.at](https://dnsmichi.at/)
 
-- [ ] [Create](https://gitlab.com/-/experiment/new_project_readme_content:95a776872043107f5fd415228415c10a?https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://gitlab.com/-/experiment/new_project_readme_content:95a776872043107f5fd415228415c10a?https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://gitlab.com/-/experiment/new_project_readme_content:95a776872043107f5fd415228415c10a?https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+## Talks & Activities
 
-```
-cd existing_repo
-git remote add origin https://gitlab.com/dnsmichi/dnsmichi.git
-git branch -M main
-git push -uf origin main
-```
+- [All Day DevOps: From Monitoring to Observability: Left Shift your SLOs](https://www.polywork.com/dnsmichi/highlights/09c96ba1-148d-48e5-966b-1fb9ee3bd5bc)
+- [PromCon NA: Practical Kubernetes Monitoring with Prometheus](https://www.polywork.com/dnsmichi/highlights/05433cd6-8427-4c32-a567-1183fb9eff04)
+- [TIL-009 - Monitoring nicht nur mit Prometheus ](https://www.polywork.com/dnsmichi/highlights/2c84a7f9-7bc6-4f44-b54c-fd94bebafa22)
+- [Pure Performance Podcast: Why DevOps must not mean Devs On Call](https://www.polywork.com/dnsmichi/highlights/8e70012f-6cb3-4edd-b669-87f3c3e57e84)    
+- [AWS UG OSTECH Conf 2021: From Infrastructure as Code to Cloud Native Deployments in 5min](https://www.polywork.com/dnsmichi/highlights/fa4f2e5c-3ef2-470d-b7d7-1f2c073ad3d2)
+- [SLOConf: Left Shift Your SLOs](https://www.polywork.com/dnsmichi/highlights/04723385-d827-4782-a873-f6e67bd448a0)
+- [Tweakers Dev Summit: Devs love CI/CD: Efficient DevSecOps Pipelines](https://www.polywork.com/dnsmichi/highlights/12080def-a33b-40d1-9028-1d5606a894fc)
+- [DockerCon Live 2021, From Infrastructure as Code to Cloud Native Deployments in 5 minutes](https://www.polywork.com/dnsmichi/highlights/85f8c48b-6160-4338-9250-e437f1afe8af)
+- [AllDayDevOps: From Monitoring to Observability: Migration challenges from Blackbox to Whitebox](https://www.polywork.com/dnsmichi/highlights/77a7da24-c1ce-4d4e-8d7d-b9e374c6de4f)
+- [Book: 97 things every cloud engineer should know - chapter: Everything is a DNS problem: How to (im)prove](https://www.polywork.com/dnsmichi/highlights/319b9ba5-cd7e-436e-8a92-b61a3fb10e19)
 
-## Integrate with your tools
+### Activities
 
-- [ ] [Set up project integrations](https://gitlab.com/-/experiment/new_project_readme_content:95a776872043107f5fd415228415c10a?https://docs.gitlab.com/ee/user/project/integrations/)
+- [Talks](https://dnsmichi.at/talks/)
+- [Developer Evangelism team calendar](https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/#-team-calendar)
 
-## Collaborate with your team
+## Blog posts
 
-- [ ] [Invite team members and collaborators](https://gitlab.com/-/experiment/new_project_readme_content:95a776872043107f5fd415228415c10a?https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://gitlab.com/-/experiment/new_project_readme_content:95a776872043107f5fd415228415c10a?https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://gitlab.com/-/experiment/new_project_readme_content:95a776872043107f5fd415228415c10a?https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Automatically merge when pipeline succeeds](https://gitlab.com/-/experiment/new_project_readme_content:95a776872043107f5fd415228415c10a?https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+- [Monitoring Kubernetes with Prometheus and Grafana - free workshop](https://dnsmichi.at/2021/09/14/monitoring-kubernetes-with-prometheus-and-grafana-free-workshop/)
+- [How to make Docker Hub rate limit monitoring a breeze](https://about.gitlab.com/blog/2020/11/18/docker-hub-rate-limit-monitoring/)
+- [How teams can use the Gitpod integration in GitLab to speed up their development process](https://about.gitlab.com/blog/2021/07/19/teams-gitpod-integration-gitlab-speed-up-development/)
+- [Top ten GitLab hacks for all stages of the DevOps Platform](https://about.gitlab.com/blog/2021/10/19/top-10-gitlab-hacks/)
+- [5 Great Phabricator features that inspired GitLab](https://about.gitlab.com/blog/2021/08/13/five-great-phabricator-features-inspired-gitlab/)
+- [10 tips to make you a productive GitLab user](https://about.gitlab.com/blog/2021/02/18/improve-your-gitlab-productivity-with-these-10-tips/)
+- [Tips for productive DevOps workflows: JSON formatting with jq and CI/CD linting automation](https://about.gitlab.com/blog/2021/04/21/devops-workflows-json-format-jq-ci-cd-lint/)
 
-## Test and Deploy
+## All remote insights
 
-Use the built-in continuous integration in GitLab.
-
-- [ ] [Get started with GitLab CI/CD](https://gitlab.com/-/experiment/new_project_readme_content:95a776872043107f5fd415228415c10a?https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://gitlab.com/-/experiment/new_project_readme_content:95a776872043107f5fd415228415c10a?https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://gitlab.com/-/experiment/new_project_readme_content:95a776872043107f5fd415228415c10a?https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://gitlab.com/-/experiment/new_project_readme_content:95a776872043107f5fd415228415c10a?https://docs.gitlab.com/ee/user/clusters/agent/)
-
-***
-
-# Editing this README
-
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!).  Thank you to [makeareadme.com](https://gitlab.com/-/experiment/new_project_readme_content:95a776872043107f5fd415228415c10a?https://www.makeareadme.com/) for this template.
-
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
-
+- [All-remote worspace](https://dnsmichi.at/all-remote-workspace/)
+- [DerStandard.at interview (German)](https://www.derstandard.de/consent/tcf/story/2000124135517/developer-evangelist-ich-bin-mein-eigener-manager)
+- [Netconomy Summit: First time all-remote: Best practices from and with GitLab](https://www.polywork.com/dnsmichi/highlights/302f84f8-fe04-4809-bdd6-0025683b8b30)
+- [My 1st year all-remote at GitLab](https://www.polywork.com/dnsmichi/highlights/013680c2-6479-4347-9687-e4ca637065b5)
