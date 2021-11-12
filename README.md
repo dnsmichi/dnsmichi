@@ -1,6 +1,6 @@
 # Hi, I'm Michael aka dnsmichi
 
-I'm a Senior Developer Evangelist at GitLab, diving deep into all stages of the DevOps platform. 🦊 
+I'm a [Senior Developer Evangelist at GitLab](https://about.gitlab.com/company/team/#dnsmichi), diving deep into all stages of the DevOps platform. 🦊 
 
 I was a backend developer for an OSS monitoring tool from 2009-2020, and share a passion for educating everyone with Monitoring, Observability, SRE in cloud native adventures. Before that I used to manage and monitor the DNS infrastructure at the University of Vienna, hence my nickname. 🏗
 
