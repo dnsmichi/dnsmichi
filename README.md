@@ -4,7 +4,7 @@ I'm a [Senior Developer Evangelist at GitLab](https://about.gitlab.com/company/t
 
 Everything I learn on my journey is shared in blog posts, talks, workshops, live streams, newsletters, public issues and social media. I'm one of the founders of the [#EveryoneCanContribute cafe](https://everyonecancontribute.com/), a social tech coffee chat to learn together 💡 
 
-> Tip: [Add your own user profile README](https://docs.gitlab.com/ee/user/profile/#user-profile-readme) 💥 
+> Tip: [Add your own user profile README](https://docs.gitlab.com/ee/user/profile/#user-profile-readme) 💥 [Edit this page](https://gitlab.com/dnsmichi/dnsmichi/-/blob/main/README.md) 🌱 
 
 ## Let's learn together
 
@@ -24,7 +24,7 @@ Follow me 👋
 ## Talks & Activities
 
 - [cdCon: How we build CI/CD Observability with OpenTelemetry](https://docs.google.com/presentation/d/12TJTRZfFIEJ_kUg1DhuXoxDIrHS2sh_wEO0BM1CyhCc/edit)
-- [KubeCon EU: From Monitoring to Observability: Left Shift your SLOs](https://www.youtube.com/watch?v=BkREMg8adaI)
+- [KubeCon EU: From Monitoring to Observability: Left Shift your SLOs with Chaos](https://www.youtube.com/watch?v=BkREMg8adaI)
 - [SLOconf 2022: Left Shift your SLOs with Chaos](https://www.youtube.com/watch?v=r63vgFxrCbE)
 - [Heise Academcy Workshop: Kubernetes Monitoring with Prometheus 2022](https://docs.google.com/presentation/d/1Fx7s914OjusEb2488LaSBrbAv91Y7Kb-j-dp0pSD_i4/edit)
 - [She'n'IT meetup: My story in IT: Adventures with dnsmichi](https://docs.google.com/presentation/d/1U4d3dkF-rxYTg4GogKAPlRjXDpx_U79U1GMMQvTad1c/edit#slide=id.p)
