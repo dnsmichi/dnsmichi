@@ -6,6 +6,13 @@ Everything I learn on my journey is shared in blog posts, talks, workshops, live
 
 > Tip: [Add your own user profile README](https://docs.gitlab.com/ee/user/profile/#user-profile-readme) 💥 [Edit this page](https://gitlab.com/dnsmichi/dnsmichi/-/blob/main/README.md) 🌱 
 
+## Collaboration Requests
+
+Want me to speak, moderate, create content, join a meetup, engage in a Twitter space, etc.?
+
+- Wider community: Please follow the [steps on my personal website](https://dnsmichi.at/portfolio/) to reach out. Please include as a much context as possible to understand the request, avoiding back-and-fourth. 
+- GitLab team members: Please follow the [Developer Evangelist request template](https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/#-quicklinks) and create an issue. My team will be in touch soon. 
+
 ## Let's learn together
 
 - [#EveryoneCanContribute cafe meetup](https://www.meetup.com/everyonecancontribute-cafe/): Technology is moving fast in cloud-native and DevOps. Join our group to discuss the latest technology, share what you have learned, and make new friends. 
