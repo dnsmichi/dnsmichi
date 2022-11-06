@@ -15,9 +15,10 @@ Want me to speak, moderate, create content, join a meetup, engage in a Twitter s
 
 ## Let's learn together
 
+- https://opsindev.news - Newsletter: From Dev to Ops to DevOps, day-2-ops and challenges in cloud-native Observability Chaos - learn together with dnsmichi 
 - [#EveryoneCanContribute cafe meetup](https://www.meetup.com/everyonecancontribute-cafe/): Technology is moving fast in cloud-native and DevOps. Join our group to discuss the latest technology, share what you have learned, and make new friends. 
 - https://o11y.love - Observability learning platform: Learn Observability - tools, resources, newsletters, workshops, and much more. Everyone can contribute!   
-- https://opsindev.news - Newsletter: From Dev to Ops to DevOps, day-2-ops and challenges in cloud-native Observability Chaos - learn together with dnsmichi 
+
 
 ## Social Profiles
 
@@ -30,17 +31,20 @@ Follow me 👋
 
 ## Talks & Activities
 
+- [Lightning talk at the GitLab booth at KubeCon NA: Efficient DevSecOps Pipelines in a Cloud Native World](https://docs.google.com/presentation/d/1CVEAT3PgOjUEt3Z560JJnHro0XjN564-J42GR6dAFgQ/edit)
+- [Open Observability Day at KubeCon NA: Confidence with Chaos for your Kubernetes Observability](https://www.youtube.com/watch?v=g13DTh8qDpk)
+- [KCD Munich: From Monitoring to Observability: Left Shift your SLOs with Chaos](https://docs.google.com/presentation/d/16jy_QtiMGCFIcswU8wxmt4WOb8fqreg3fCRJctiPs-s/edit)
+- [Kubernetes Observability workshop for Kube Simplify](https://o11y.love/learning-resources/#kubernetes-observability-workshop-for-kube-simplify)
 - [cdCon: How we build CI/CD Observability with OpenTelemetry](https://docs.google.com/presentation/d/12TJTRZfFIEJ_kUg1DhuXoxDIrHS2sh_wEO0BM1CyhCc/edit)
 - [KubeCon EU: From Monitoring to Observability: Left Shift your SLOs with Chaos](https://www.youtube.com/watch?v=BkREMg8adaI)
 - [SLOconf 2022: Left Shift your SLOs with Chaos](https://www.youtube.com/watch?v=r63vgFxrCbE)
-- [Heise Academcy Workshop: Kubernetes Monitoring with Prometheus 2022](https://docs.google.com/presentation/d/1Fx7s914OjusEb2488LaSBrbAv91Y7Kb-j-dp0pSD_i4/edit)
 - [She'n'IT meetup: My story in IT: Adventures with dnsmichi](https://docs.google.com/presentation/d/1U4d3dkF-rxYTg4GogKAPlRjXDpx_U79U1GMMQvTad1c/edit#slide=id.p)
 - [Chaos Carnival: From Monitoring to Observability: Left Shift your SLOs with Chaos](https://docs.google.com/presentation/d/1FgoMAlaFOCQbM2yW6tVpyf7WmLNtaFoaQulJl6k20tQ/edit)
 
 ### Activities
 
 - [Talks](https://dnsmichi.at/talks/)
-- [Developer Evangelism team calendar](https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/#-team-calendar)
+- [Developer Evangelism team calendar](https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/#team-workflow)
 
 ## Blog posts
 
