@@ -1,6 +1,6 @@
 # 🇦🇹 Hi, I'm Michael aka dnsmichi
 
-I'm a [Senior Developer Evangelist at GitLab](https://about.gitlab.com/company/team/#dnsmichi), diving deep into all stages of the One DevOps platform. My focus areas are Ops, Observability, SRE in cloud-native environments 🦊 
+I'm a [Senior Developer Evangelist at GitLab](https://about.gitlab.com/company/team/#dnsmichi). My Focus is DevSecOps, Observability, eBPF, AI 🦊 
 
 Everything I learn on my journey is shared in blog posts, talks, workshops, live streams, newsletters, public issues and social media. I'm one of the founders of the [#EveryoneCanContribute cafe](https://everyonecancontribute.com/), a social tech coffee chat to learn together 💡 
 
