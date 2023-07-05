@@ -2,20 +2,21 @@
 
 I'm a [Senior Developer Evangelist at GitLab](https://about.gitlab.com/company/team/#dnsmichi). My Focus is DevSecOps, Observability, eBPF, AI 🦊 
 
-Everything I learn on my journey is shared in blog posts, talks, workshops, live streams, newsletters, public issues and social media. I'm one of the founders of the [#EveryoneCanContribute cafe](https://everyonecancontribute.com/), a social tech coffee chat to learn together 💡 
+Everything I learn on my journey is shared in blog posts, talks, workshops, live streams, public issues, social media, newsletters. 🌐
 
 > Tip: [Add your own user profile README](https://docs.gitlab.com/ee/user/profile/#user-profile-readme) 💥 [Edit this page](https://gitlab.com/dnsmichi/dnsmichi/-/blob/main/README.md) 🌱 
 
 ## 🤗 Collaboration Requests
 
-Want me to speak, moderate, create content, join a meetup, engage in a Twitter space, etc.?
+Want me to speak, moderate, create content, join a meetup, engage in a podcast, etc.?
 
 - Wider community: Please follow the [steps on my personal website](https://dnsmichi.at/portfolio/) to reach out. Please include as a much context as possible to understand the request, avoiding back-and-fourth. 
-- GitLab team members: Please follow the [Developer Evangelist request template](https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/#-quicklinks) and create an issue. My team will be in touch soon. 
+- GitLab team members: Please follow the [Developer Evangelist request template](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/#-quicklinks) and create an issue. My team will be in touch soon. 
 
 ## 💡 Let's learn together
 
 - https://opsindev.news - Newsletter: From Dev to Ops to DevOps, day-2-ops and challenges in cloud-native Observability eBPF Chaos - learn together with dnsmichi 
+    - Learning eBPF and AI series 
 - [#EveryoneCanContribute cafe meetup](https://www.meetup.com/everyonecancontribute-cafe/): Technology is moving fast in cloud-native and DevOps. Join our group to discuss the latest technology, share what you have learned, and make new friends. 
 - https://o11y.love - Observability learning platform: Learn Observability - tools, resources, newsletters, workshops, and much more. Everyone can contribute!   
 
@@ -27,11 +28,14 @@ Follow me 👋
 - [@dnsmichi on Twitter](https://twitter.com/dnsmichi)
 - [@dnsmichi@crashloop.social on Mastodon](https://crashloop.social/@dnsmichi)
 - [@dnsmichi on LinkedIn](https://www.linkedin.com/in/dnsmichi/)
+- [dnsmichi.bsky.social](https://bsky.app/profile/dnsmichi.bsky.social)
 - [@dnsmichi on Polywork](https://www.polywork.com/dnsmichi)
 - [Personal website dnsmichi.at](https://dnsmichi.at/)
 
 ## ⚡️ Talks & Activities
 
+- [Cloudland 2023: Observability for Efficient DevSecOps Pipelines](https://go.gitlab.com/VDAvMw)
+- [Cloudland 2023: Learning eBPF for better Observability (workshop)](https://go.gitlab.com/2rrbrh)
 - [Chemnitz Linux Days: Efficient DevSecOps Pipelines in a cloud native World](https://go.gitlab.com/RPog2h)
 - [Config Management Camp: From Monitoring to Observability: eBPF Chaos](https://go.gitlab.com/XLh23P)
 - [Open Observability Day at KubeCon NA: Confidence with Chaos for your Kubernetes Observability](https://www.youtube.com/watch?v=g13DTh8qDpk)
