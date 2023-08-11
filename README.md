@@ -41,10 +41,9 @@ Follow me 👋
 - [Open Observability Day at KubeCon NA: Confidence with Chaos for your Kubernetes Observability](https://www.youtube.com/watch?v=g13DTh8qDpk)
 - [KCD Munich: From Monitoring to Observability: Left Shift your SLOs with Chaos](https://docs.google.com/presentation/d/16jy_QtiMGCFIcswU8wxmt4WOb8fqreg3fCRJctiPs-s/edit)
 - [Kubernetes Observability workshop for Kube Simplify](https://o11y.love/learning-resources/#kubernetes-observability-workshop-for-kube-simplify)
-- [KubeCon EU: From Monitoring to Observability: Left Shift your SLOs with Chaos](https://www.youtube.com/watch?v=BkREMg8adaI)
+- [KubeCon EU 2022: From Monitoring to Observability: Left Shift your SLOs with Chaos](https://www.youtube.com/watch?v=BkREMg8adaI)
 - [SLOconf 2022: Left Shift your SLOs with Chaos](https://www.youtube.com/watch?v=r63vgFxrCbE)
 - [She'n'IT meetup: My story in IT: Adventures with dnsmichi](https://docs.google.com/presentation/d/1U4d3dkF-rxYTg4GogKAPlRjXDpx_U79U1GMMQvTad1c/edit#slide=id.p)
-- [Chaos Carnival: From Monitoring to Observability: Left Shift your SLOs with Chaos](https://docs.google.com/presentation/d/1FgoMAlaFOCQbM2yW6tVpyf7WmLNtaFoaQulJl6k20tQ/edit)
 
 ### Activities
 
@@ -53,6 +52,8 @@ Follow me 👋
 
 ## 🌱 Blog posts
 
+- [Learning Rust with a little help from AI](https://go.gitlab.com/N0f6BK)
+- [Set up your infrastructure for on-demand, cloud-based development environemts in GitLab](https://go.gitlab.com/dp75xo)
 - [How GitLab can help mitigate deletion of open source container images on Docker Hub](https://go.gitlab.com/LTsBCm)
 - [Efficient DevSecOps workflows: Hands-on python-gitlab API automation](https://go.gitlab.com/JPIoWd)
 - [How to continuously test web apps and APIs with Hurl and GitLab CI/CD](https://about.gitlab.com/blog/2022/12/14/how-to-continously-test-web-apps-apis-with-hurl-and-gitlab-ci-cd/)
