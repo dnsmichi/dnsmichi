@@ -1,6 +1,6 @@
 # 🇦🇹 Hi, I'm Michael aka dnsmichi
 
-I'm a [Senior Developer Evangelist at GitLab](https://about.gitlab.com/company/team/#dnsmichi). My Focus is DevSecOps, Observability, eBPF, AI 🦊 
+I'm a [Senior Developer Evangelist at GitLab](https://about.gitlab.com/company/team/#dnsmichi). My Focus is DevSecOps, AI, Observability, eBPF 🦊 
 
 Everything I learn on my journey is shared in blog posts, talks, workshops, live streams, public issues, social media, newsletters. 🌐
 
@@ -15,7 +15,7 @@ Want me to speak, moderate, create content, join a meetup, engage in a podcast, 
 
 ## 💡 Let's learn together
 
-- https://opsindev.news - Newsletter: From Dev to Ops to DevOps, day-2-ops and challenges in cloud-native Observability eBPF Chaos - learn together with dnsmichi 
+- https://opsindev.news - Newsletter: From Dev to Ops to DevSecOps, AI and day-2-ops Observability with eBPF - learn together with dnsmichi 
     - Learning eBPF and AI series 
 - [#EveryoneCanContribute cafe meetup](https://www.meetup.com/everyonecancontribute-cafe/): Technology is moving fast in cloud-native and DevOps. Join our group to discuss the latest technology, share what you have learned, and make new friends. 
 - https://o11y.love - Observability learning platform: Learn Observability - tools, resources, newsletters, workshops, and much more. Everyone can contribute!   
@@ -25,7 +25,7 @@ Want me to speak, moderate, create content, join a meetup, engage in a podcast, 
 
 Follow me 👋 
 
-- [@dnsmichi on Twitter](https://twitter.com/dnsmichi)
+- [@dnsmichi on Twitter/X](https://twitter.com/dnsmichi)
 - [@dnsmichi@crashloop.social on Mastodon](https://crashloop.social/@dnsmichi)
 - [@dnsmichi on LinkedIn](https://www.linkedin.com/in/dnsmichi/)
 - [dnsmichi.bsky.social](https://bsky.app/profile/dnsmichi.bsky.social)
@@ -34,16 +34,15 @@ Follow me 👋
 
 ## ⚡️ Talks & Activities
 
-- [Cloudland 2023: Observability for Efficient DevSecOps Pipelines](https://go.gitlab.com/VDAvMw)
+- [Cloud-native Saar 2023: Efficient DevSecOps workflows with a little help from AI](https://go.gitlab.com/gifkBl)
+- [KubeCon NA 2023 lightning talk: Simplifying CI/CD Pipelines with Component Catalogs](https://go.gitlab.com/GiDqrM)
+- [KubeCon NA 2023 lightning talk: Observability for Efficient DevSecOps Pipelines](https://go.gitlab.com/aelk1B)
+- [Container Days 2023: From Monitoring to Observability: eBPF Chaos](https://go.gitlab.com/nwHFeG)
 - [Cloudland 2023: Learning eBPF for better Observability (workshop)](https://go.gitlab.com/2rrbrh)
 - [Chemnitz Linux Days: Efficient DevSecOps Pipelines in a cloud native World](https://go.gitlab.com/RPog2h)
-- [Config Management Camp: From Monitoring to Observability: eBPF Chaos](https://go.gitlab.com/XLh23P)
-- [Open Observability Day at KubeCon NA: Confidence with Chaos for your Kubernetes Observability](https://www.youtube.com/watch?v=g13DTh8qDpk)
-- [KCD Munich: From Monitoring to Observability: Left Shift your SLOs with Chaos](https://docs.google.com/presentation/d/16jy_QtiMGCFIcswU8wxmt4WOb8fqreg3fCRJctiPs-s/edit)
+- [Open Observability Day at KubeCon NA 2022: Confidence with Chaos for your Kubernetes Observability](https://www.youtube.com/watch?v=g13DTh8qDpk)
 - [Kubernetes Observability workshop for Kube Simplify](https://o11y.love/learning-resources/#kubernetes-observability-workshop-for-kube-simplify)
 - [KubeCon EU 2022: From Monitoring to Observability: Left Shift your SLOs with Chaos](https://www.youtube.com/watch?v=BkREMg8adaI)
-- [SLOconf 2022: Left Shift your SLOs with Chaos](https://www.youtube.com/watch?v=r63vgFxrCbE)
-- [She'n'IT meetup: My story in IT: Adventures with dnsmichi](https://docs.google.com/presentation/d/1U4d3dkF-rxYTg4GogKAPlRjXDpx_U79U1GMMQvTad1c/edit#slide=id.p)
 
 ### Activities
 
@@ -52,15 +51,13 @@ Follow me 👋
 
 ## 🌱 Blog posts
 
+- [Learning Python with a little help from AI](https://go.gitlab.com/eMmNAl)
+- [Learning advanced Rust programming with a little help from AI](https://go.gitlab.com/dXWquG)
 - [Learning Rust with a little help from AI](https://go.gitlab.com/N0f6BK)
 - [Set up your infrastructure for on-demand, cloud-based development environemts in GitLab](https://go.gitlab.com/dp75xo)
 - [How GitLab can help mitigate deletion of open source container images on Docker Hub](https://go.gitlab.com/LTsBCm)
 - [Efficient DevSecOps workflows: Hands-on python-gitlab API automation](https://go.gitlab.com/JPIoWd)
-- [How to continuously test web apps and APIs with Hurl and GitLab CI/CD](https://about.gitlab.com/blog/2022/12/14/how-to-continously-test-web-apps-apis-with-hurl-and-gitlab-ci-cd/)
 - [Fantastic Infrastructure as Code security attacks and how to find them](https://about.gitlab.com/blog/2022/02/17/fantastic-infrastructure-as-code-security-attacks-and-how-to-find-them/)
-- [Monitoring Kubernetes with Prometheus and Grafana - free workshop](https://dnsmichi.at/2021/09/14/monitoring-kubernetes-with-prometheus-and-grafana-free-workshop/)
-- [How to make Docker Hub rate limit monitoring a breeze](https://about.gitlab.com/blog/2020/11/18/docker-hub-rate-limit-monitoring/)
-- [How teams can use the Gitpod integration in GitLab to speed up their development process](https://about.gitlab.com/blog/2021/07/19/teams-gitpod-integration-gitlab-speed-up-development/)
 - [Top ten GitLab hacks for all stages of the DevOps Platform](https://about.gitlab.com/blog/2021/10/19/top-10-gitlab-hacks/)
 - [5 Great Phabricator features that inspired GitLab](https://about.gitlab.com/blog/2021/08/13/five-great-phabricator-features-inspired-gitlab/)
 - [10 tips to make you a productive GitLab user](https://about.gitlab.com/blog/2021/02/18/improve-your-gitlab-productivity-with-these-10-tips/)
