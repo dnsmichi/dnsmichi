@@ -15,9 +15,9 @@ Want me to speak, moderate, create content, join a meetup, engage in a podcast, 
 
 ## 💡 Let's learn together
 
+- [GitLab Duo Coffee Chat](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp5uj_JgQiSvHw1jQu0mSVZ) - live learning series with AI-powered DevSecOps workflows, using Code Suggestions, Chat, Vulnerability Resolution and more. 
 - https://opsindev.news - Newsletter: From Dev to Ops to DevSecOps, AI and day-2-ops Observability with eBPF - learn together with dnsmichi 
     - Learning eBPF and AI series 
-- [#EveryoneCanContribute cafe meetup](https://www.meetup.com/everyonecancontribute-cafe/): Technology is moving fast in cloud-native and DevOps. Join our group to discuss the latest technology, share what you have learned, and make new friends. 
 - https://o11y.love - Observability learning platform: Learn Observability - tools, resources, newsletters, workshops, and much more. Everyone can contribute!   
 
 
