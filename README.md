@@ -1,6 +1,6 @@
 # 🇦🇹 Hi, I'm Michael aka dnsmichi
 
-I'm a [Senior Developer Evangelist at GitLab](https://about.gitlab.com/company/team/#dnsmichi). My Focus is DevSecOps, AI, Observability, eBPF 🦊 
+I'm a [Senior Developer Developer Advocate at GitLab](https://about.gitlab.com/company/team/#dnsmichi). My Focus is DevSecOps, AI, Observability, eBPF 🦊 
 
 Everything I learn on my journey is shared in blog posts, talks, workshops, live streams, public issues, social media, newsletters. 🌐
 
