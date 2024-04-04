@@ -10,8 +10,7 @@ Everything I learn on my journey is shared in blog posts, talks, workshops, live
 
 Want me to speak, moderate, create content, join a meetup, engage in a podcast, etc.?
 
-- Wider community: Please follow the [steps on my personal website](https://dnsmichi.at/portfolio/) to reach out. Please include as a much context as possible to understand the request, avoiding back-and-fourth. 
-- GitLab team members: Please follow the [Developer Evangelist request template](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/#-quicklinks) and create an issue. My team will be in touch soon. 
+Please follow the [Developer Advocate request template](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/#want-to-work-with-the-team) and create an issue. My team will be in touch soon. 
 
 ## 💡 Let's learn together
 
@@ -25,18 +24,17 @@ Want me to speak, moderate, create content, join a meetup, engage in a podcast, 
 
 Follow me 👋 
 
+- [@dnsmichi on LinkedIn](https://www.linkedin.com/in/dnsmichi/)
 - [@dnsmichi on Twitter/X](https://twitter.com/dnsmichi)
 - [@dnsmichi@crashloop.social on Mastodon](https://crashloop.social/@dnsmichi)
-- [@dnsmichi on LinkedIn](https://www.linkedin.com/in/dnsmichi/)
 - [dnsmichi.bsky.social](https://bsky.app/profile/dnsmichi.bsky.social)
-- [@dnsmichi on Polywork](https://www.polywork.com/dnsmichi)
 - [Personal website dnsmichi.at](https://dnsmichi.at/)
 
 ## ⚡️ Talks & Activities
 
+- [QCon London 2024: Efficient DevSecOps workflows with a little help from AI](https://go.gitlab.com/ZDYNXQ)
+- [Efficient DevSecOps Workflows with reusable CI/CD Components](https://youtu.be/-yvfSFKAgbA)
 - [Cloud-native Saar 2023: Efficient DevSecOps workflows with a little help from AI](https://go.gitlab.com/gifkBl)
-- [KubeCon NA 2023 lightning talk: Simplifying CI/CD Pipelines with Component Catalogs](https://go.gitlab.com/GiDqrM)
-- [KubeCon NA 2023 lightning talk: Observability for Efficient DevSecOps Pipelines](https://go.gitlab.com/aelk1B)
 - [Container Days 2023: From Monitoring to Observability: eBPF Chaos](https://go.gitlab.com/nwHFeG)
 - [Cloudland 2023: Learning eBPF for better Observability (workshop)](https://go.gitlab.com/2rrbrh)
 - [Chemnitz Linux Days: Efficient DevSecOps Pipelines in a cloud native World](https://go.gitlab.com/RPog2h)
@@ -47,10 +45,11 @@ Follow me 👋
 ### Activities
 
 - [Talks](https://dnsmichi.at/talks/)
-- [Developer Evangelism team calendar](https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/#team-workflow)
+- [Developer Advocacy team calendar](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/calendar/)
 
 ## 🌱 Blog posts
 
+- [10 best practices for using AI-powered GitLab Duo Chat](https://go.gitlab.com/UQnuC4)
 - [Learning Python with a little help from AI](https://go.gitlab.com/eMmNAl)
 - [Learning advanced Rust programming with a little help from AI](https://go.gitlab.com/dXWquG)
 - [Learning Rust with a little help from AI](https://go.gitlab.com/N0f6BK)
