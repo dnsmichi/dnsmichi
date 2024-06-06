@@ -34,12 +34,8 @@ Follow me 👋
 
 - [QCon London 2024: Efficient DevSecOps workflows with a little help from AI](https://go.gitlab.com/ZDYNXQ)
 - [Efficient DevSecOps Workflows with reusable CI/CD Components](https://youtu.be/-yvfSFKAgbA)
-- [Cloud-native Saar 2023: Efficient DevSecOps workflows with a little help from AI](https://go.gitlab.com/gifkBl)
 - [Container Days 2023: From Monitoring to Observability: eBPF Chaos](https://go.gitlab.com/nwHFeG)
-- [Cloudland 2023: Learning eBPF for better Observability (workshop)](https://go.gitlab.com/2rrbrh)
 - [Chemnitz Linux Days: Efficient DevSecOps Pipelines in a cloud native World](https://go.gitlab.com/RPog2h)
-- [Open Observability Day at KubeCon NA 2022: Confidence with Chaos for your Kubernetes Observability](https://www.youtube.com/watch?v=g13DTh8qDpk)
-- [Kubernetes Observability workshop for Kube Simplify](https://o11y.love/learning-resources/#kubernetes-observability-workshop-for-kube-simplify)
 - [KubeCon EU 2022: From Monitoring to Observability: Left Shift your SLOs with Chaos](https://www.youtube.com/watch?v=BkREMg8adaI)
 
 ### Activities
@@ -49,6 +45,7 @@ Follow me 👋
 
 ## 🌱 Blog posts
 
+- [Developing GitLab Duo: Blending AI and Root Cause Analysis to fix CI/CD pipelines](https://go.gitlab.com/i6122K)
 - [10 best practices for using AI-powered GitLab Duo Chat](https://go.gitlab.com/UQnuC4)
 - [Learning Python with a little help from AI](https://go.gitlab.com/eMmNAl)
 - [Learning advanced Rust programming with a little help from AI](https://go.gitlab.com/dXWquG)
@@ -66,8 +63,9 @@ Follow me 👋
 
 ## 🌐 All remote insights
 
-- [All-remote worspace](https://dnsmichi.at/all-remote-workspace/)
+- [All-remote workspace](https://dnsmichi.at/all-remote-workspace/)
 - [DerStandard.at interview (German)](https://www.derstandard.de/consent/tcf/story/2000124135517/developer-evangelist-ich-bin-mein-eigener-manager)
 - [My 1st year all-remote at GitLab](https://www.polywork.com/dnsmichi/highlights/013680c2-6479-4347-9687-e4ca637065b5)
 - [2 years all-remote and my 2022 vision](https://dnsmichi.at/2022/03/02/2-years-all-remote-and-2022-vision/)
 - [Three years all-remote at GitLab: Know the unknown unknowns (growth, life, and work)](https://dnsmichi.at/2023/03/02/three-years-all-remote-at-gitlab-know-the-unknown-unknowns-growth-life-work/)
+- [Michi, Limited Edition - 4 years all-remote at GitLab](https://dnsmichi.at/2024/03/02/michi-limited-edition-4-years-all-remote-at-gitlab/)
