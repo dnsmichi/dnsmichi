@@ -45,6 +45,7 @@ Follow me 👋
 
 ## 🌱 Blog posts
 
+- [Top tips for efficient AI-powered Code Suggestions with GitLab Duo](https://about.gitlab.com/blog/2024/06/11/top-tips-for-efficient-ai-powered-code-suggestions-with-gitlab-duo/)
 - [Developing GitLab Duo: Blending AI and Root Cause Analysis to fix CI/CD pipelines](https://go.gitlab.com/i6122K)
 - [10 best practices for using AI-powered GitLab Duo Chat](https://go.gitlab.com/UQnuC4)
 - [Learning Python with a little help from AI](https://go.gitlab.com/eMmNAl)
