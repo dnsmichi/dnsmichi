@@ -1,24 +1,10 @@
 # 🇦🇹 Hi, I'm Michael aka dnsmichi
 
-I'm a [Senior Developer Developer Advocate at GitLab](https://about.gitlab.com/company/team/#dnsmichi). My Focus is DevSecOps, AI, Observability, eBPF 🦊 
+I'm a [Senior Developer Developer Advocate at GitLab](https://about.gitlab.com/company/team/#dnsmichi). My Focus is DevSecOps efficiency with AI 🦊 
 
-Everything I learn on my journey is shared in blog posts, talks, workshops, live streams, public issues, social media, newsletters. 🌐
+Everything I learn on my journey is shared in blog posts, talks, workshops, live streams, tutorials, isues/epics, documentation/handbook MRs 🌐
 
-> Tip: [Add your own user profile README](https://docs.gitlab.com/ee/user/profile/#user-profile-readme) 💥 [Edit this page](https://gitlab.com/dnsmichi/dnsmichi/-/blob/main/README.md) 🌱 
-
-## 🤗 Collaboration Requests
-
-Want me to speak, moderate, create content, join a meetup, engage in a podcast, etc.?
-
-Please follow the [Developer Advocate request template](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/#want-to-work-with-the-team) and create an issue. My team will be in touch soon. 
-
-## 💡 Let's learn together
-
-- [GitLab Duo Coffee Chat](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp5uj_JgQiSvHw1jQu0mSVZ) - live learning series with AI-powered DevSecOps workflows, using Code Suggestions, Chat, Vulnerability Resolution and more. 
-- https://opsindev.news - Newsletter: From Dev to Ops to DevSecOps, AI and day-2-ops Observability with eBPF - learn together with dnsmichi 
-    - Learning eBPF and AI series 
-- https://o11y.love - Observability learning platform: Learn Observability - tools, resources, newsletters, workshops, and much more. Everyone can contribute!   
-
+Learn about my work values, strengths and weaknesses, working with me and more in my [README](https://handbook.gitlab.com/handbook/marketing/readmes/michael-friedrich/).
 
 ## 🌈 Social Profiles
 
@@ -30,18 +16,9 @@ Follow me 👋
 - [dnsmichi.bsky.social](https://bsky.app/profile/dnsmichi.bsky.social)
 - [Personal website dnsmichi.at](https://dnsmichi.at/)
 
-## ⚡️ Talks & Activities
+## 💡 Let's learn together
 
-- [QCon London 2024: Efficient DevSecOps workflows with a little help from AI](https://go.gitlab.com/ZDYNXQ)
-- [Efficient DevSecOps Workflows with reusable CI/CD Components](https://youtu.be/-yvfSFKAgbA)
-- [Container Days 2023: From Monitoring to Observability: eBPF Chaos](https://go.gitlab.com/nwHFeG)
-- [Chemnitz Linux Days: Efficient DevSecOps Pipelines in a cloud native World](https://go.gitlab.com/RPog2h)
-- [KubeCon EU 2022: From Monitoring to Observability: Left Shift your SLOs with Chaos](https://www.youtube.com/watch?v=BkREMg8adaI)
-
-### Activities
-
-- [Talks](https://dnsmichi.at/talks/)
-- [Developer Advocacy team calendar](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/calendar/)
+- [GitLab Duo Coffee Chat](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp5uj_JgQiSvHw1jQu0mSVZ) - live learning series with AI-powered DevSecOps workflows, using Code Suggestions, Chat, Vulnerability Resolution and more. 
 
 ## 🌱 Blog posts
 
@@ -61,6 +38,24 @@ Follow me 👋
 - [Tips for productive DevOps workflows: JSON formatting with jq and CI/CD linting automation](https://about.gitlab.com/blog/2021/04/21/devops-workflows-json-format-jq-ci-cd-lint/)
 - [How to use GitLab security features to detect log4j vulnerabilities](https://about.gitlab.com/blog/2021/12/15/use-gitlab-to-detect-vulnerabilities/)
 
+## ⚡️ Talks & Activities
+
+- [QCon London 2024: Efficient DevSecOps workflows with a little help from AI](https://go.gitlab.com/ZDYNXQ)
+- [Efficient DevSecOps Workflows with reusable CI/CD Components](https://youtu.be/-yvfSFKAgbA)
+- [Container Days 2023: From Monitoring to Observability: eBPF Chaos](https://go.gitlab.com/nwHFeG)
+- [Chemnitz Linux Days: Efficient DevSecOps Pipelines in a cloud native World](https://go.gitlab.com/RPog2h)
+- [KubeCon EU 2022: From Monitoring to Observability: Left Shift your SLOs with Chaos](https://www.youtube.com/watch?v=BkREMg8adaI)
+
+### Activities
+
+- [Talks](https://dnsmichi.at/talks/)
+- [Developer Advocacy team calendar](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/calendar/)
+
+## 🤗 Collaboration Requests
+
+Want me to speak, moderate, create content, join a meetup, engage in a podcast, etc.?
+
+Please follow the [Developer Advocate request template](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/#want-to-work-with-the-team) and create an issue. My team will be in touch soon. 
 
 ## 🌐 All remote insights
 
