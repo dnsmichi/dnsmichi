@@ -1,6 +1,6 @@
 # 🇦🇹 Hi, I'm Michael aka dnsmichi
 
-I'm a [Senior Developer Developer Advocate at GitLab](https://about.gitlab.com/company/team/#dnsmichi). My Focus is DevSecOps efficiency with AI 🦊 
+I'm a [Staff Developer Developer Advocate at GitLab](https://about.gitlab.com/company/team/#dnsmichi). My Focus is DevSecOps efficiency with AI 🦊 
 
 Everything I learn on my journey is shared in blog posts, talks, workshops, live streams, tutorials, isues/epics, documentation/handbook MRs 🌐
 
