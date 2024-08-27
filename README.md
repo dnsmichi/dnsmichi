@@ -22,6 +22,8 @@ Follow me 👋
 
 ## 🌱 Blog posts
 
+- [Refactor code into modern languages with AI-powered GitLab Duo](https://about.gitlab.com/blog/2024/08/26/refactor-code-into-modern-languages-with-ai-powered-gitlab-duo/)
+- [Developing GitLab Duo: Use AI to remediate security vulnerabilities](https://about.gitlab.com/blog/2024/07/15/developing-gitlab-duo-use-ai-to-remediate-security-vulnerabilities/)
 - [Top tips for efficient AI-powered Code Suggestions with GitLab Duo](https://about.gitlab.com/blog/2024/06/11/top-tips-for-efficient-ai-powered-code-suggestions-with-gitlab-duo/)
 - [Developing GitLab Duo: Blending AI and Root Cause Analysis to fix CI/CD pipelines](https://go.gitlab.com/i6122K)
 - [10 best practices for using AI-powered GitLab Duo Chat](https://go.gitlab.com/UQnuC4)
