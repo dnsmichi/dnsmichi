@@ -11,13 +11,14 @@ Learn about my work values, strengths and weaknesses, working with me and more i
 Follow me 👋 
 
 - [@dnsmichi on LinkedIn](https://www.linkedin.com/in/dnsmichi/)
-- [@dnsmichi on Twitter/X](https://twitter.com/dnsmichi)
+- [@dnsmichi on X](https://x.com/dnsmichi)
 - [@dnsmichi@crashloop.social on Mastodon](https://crashloop.social/@dnsmichi)
 - [dnsmichi.bsky.social](https://bsky.app/profile/dnsmichi.bsky.social)
 - [Personal website dnsmichi.at](https://dnsmichi.at/)
 
 ## 💡 Let's learn together
 
+- [InfoQ: Efficient DevSecOps Workflows with a Little Help from AI](https://www.infoq.com/articles/efficient-devsecops-workflows/)
 - [GitLab Duo Coffee Chat](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp5uj_JgQiSvHw1jQu0mSVZ) - live learning series with AI-powered DevSecOps workflows, using Code Suggestions, Chat, Vulnerability Resolution and more. 
 
 ## 🌱 Blog posts
@@ -42,11 +43,9 @@ Follow me 👋
 
 ## ⚡️ Talks & Activities
 
+- [Container Days 2024: Efficient DevSecOps workflows with a little help from AI](https://go.gitlab.com/7SDsCE)
+- [Open Source @ Siemens 2024: Efficient DevSecOps with CI/CD Components](https://www.youtube.com/watch?v=MqTHC6jG92A)
 - [QCon London 2024: Efficient DevSecOps workflows with a little help from AI](https://go.gitlab.com/ZDYNXQ)
-- [Efficient DevSecOps Workflows with reusable CI/CD Components](https://youtu.be/-yvfSFKAgbA)
-- [Container Days 2023: From Monitoring to Observability: eBPF Chaos](https://go.gitlab.com/nwHFeG)
-- [Chemnitz Linux Days: Efficient DevSecOps Pipelines in a cloud native World](https://go.gitlab.com/RPog2h)
-- [KubeCon EU 2022: From Monitoring to Observability: Left Shift your SLOs with Chaos](https://www.youtube.com/watch?v=BkREMg8adaI)
 
 ### Activities
 
