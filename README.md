@@ -45,6 +45,7 @@ Follow me 👋
 
 - [InfoQ Dev Summit Munich 2024](https://go.gitlab.com/aR7Rd7)
 - [Container Days 2024: Efficient DevSecOps workflows with a little help from AI](https://go.gitlab.com/7SDsCE)
+    - [![](https://img.youtube.com/vi/uV-dnyt-uAY/0.jpg)](https://youtu.be/uV-dnyt-uAY?feature=shared "GitLab Duo Chat: AI-powered DevSecOps assistant")
 - [Open Source @ Siemens 2024: Efficient DevSecOps with CI/CD Components](https://www.youtube.com/watch?v=MqTHC6jG92A)
 - [QCon London 2024: Efficient DevSecOps workflows with a little help from AI](https://go.gitlab.com/ZDYNXQ)
 
