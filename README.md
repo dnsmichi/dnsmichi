@@ -11,9 +11,8 @@ Learn about my work values, strengths and weaknesses, working with me and more i
 Follow me 👋 
 
 - [@dnsmichi on LinkedIn](https://www.linkedin.com/in/dnsmichi/)
-- [@dnsmichi on X](https://x.com/dnsmichi)
+- [dnsmichi.dev on Bluesky](https://bsky.app/profile/dnsmichi.dev)
 - [@dnsmichi@crashloop.social on Mastodon](https://crashloop.social/@dnsmichi)
-- [dnsmichi.bsky.social](https://bsky.app/profile/dnsmichi.bsky.social)
 - [Personal website dnsmichi.at](https://dnsmichi.at/)
 
 ## 💡 Let's learn together
