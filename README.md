@@ -1,13 +1,10 @@
-# 🇦🇹 Hi, I'm Michael aka dnsmichi
+# 🌈 Hi, I'm Michael aka dnsmichi
 
 I'm a [Staff Developer Developer Advocate at GitLab](https://about.gitlab.com/company/team/#dnsmichi). My Focus is Responsible Agentic AI adoption and (Embedded) DevSecOps 🦊 
 
 Everything I learn on my journey is shared in blog posts, talks, workshops, live streams, tutorials, isues/epics, documentation/handbook MRs. Learn about my work values, strengths and weaknesses, working with me and more in my [README](https://handbook.gitlab.com/handbook/marketing/readmes/michael-friedrich/). 🌐
 
-## 🌈 Social Profiles
-
-- Follow me 👋  [@dnsmichi on LinkedIn](https://www.linkedin.com/in/dnsmichi/), [dnsmichi.dev on Bluesky](https://bsky.app/profile/dnsmichi.dev), [@dnsmichi@crashloop.social on Mastodon](https://crashloop.social/@dnsmichi)
-- [Personal website dnsmichi.at](https://dnsmichi.at/)
+Follow me 👋  [@dnsmichi on LinkedIn](https://www.linkedin.com/in/dnsmichi/), [dnsmichi.dev on Bluesky](https://bsky.app/profile/dnsmichi.dev), [@dnsmichi@crashloop.social on Mastodon](https://crashloop.social/@dnsmichi)
 
 ## 🌱 Blog posts
 
