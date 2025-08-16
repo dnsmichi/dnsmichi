@@ -30,7 +30,7 @@ Full list in https://dnsmichi.at/portfolio/
 See https://dnsmichi.at/talks/ for the most current insights.
 
 - [Open Source @ Siemens 2025: Learning AI 101: Practical Foundations for Developers](https://dnsmichi.click/learning-ai-101-os-siemens-2025)
-    - [![https://img.youtube.com/vi/6NxSJmpjxfo/0.jpg]()](https://www.youtube.com/watch?v=6NxSJmpjxfo "Learning AI 101: Practical Foundations for Developers")
+    - [![](https://img.youtube.com/vi/6NxSJmpjxfo/0.jpg)](https://www.youtube.com/watch?v=6NxSJmpjxfo "Learning AI 101: Practical Foundations for Developers")
 - [Container Days 2024: Efficient DevSecOps workflows with a little help from AI](https://go.gitlab.com/7SDsCE)
     - [![](https://img.youtube.com/vi/uV-dnyt-uAY/0.jpg)](https://youtu.be/uV-dnyt-uAY?feature=shared "GitLab Duo Chat: AI-powered DevSecOps assistant")
 
