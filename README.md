@@ -1,6 +1,6 @@
 # 🌈 Hi, I'm Michael aka dnsmichi
 
-I'm a [Staff Developer Developer Advocate at GitLab](https://about.gitlab.com/company/team/#dnsmichi). My Focus is Responsible Agentic AI adoption and (Embedded) DevSecOps 🦊 
+I'm a [Staff Developer Advocate at GitLab](https://about.gitlab.com/company/team/#dnsmichi). My Focus is Responsible Agentic AI adoption and (Embedded) DevSecOps 🦊 
 
 Everything I learn on my journey is shared in blog posts, talks, workshops, live streams, tutorials, isues/epics, documentation/handbook MRs. Learn about my work values, strengths and weaknesses, working with me and more in my [README](https://handbook.gitlab.com/handbook/marketing/readmes/michael-friedrich/). 🌐
 
