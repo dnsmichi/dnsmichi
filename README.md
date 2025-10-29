@@ -1,6 +1,6 @@
 # 🌈 Hi, I'm Michael aka dnsmichi
 
-I'm a [Staff Developer Advocate at GitLab](https://about.gitlab.com/company/team/#dnsmichi). My Focus is Responsible Agentic AI adoption and (Embedded) DevSecOps 🦊 
+I'm a [Principal Developer Advocate at GitLab](https://about.gitlab.com/company/team/#dnsmichi). My Focus is Efficient Agentic AI adoption and (Embedded) DevSecOps 🦊 
 
 Everything I learn on my journey is shared in blog posts, talks, workshops, live streams, tutorials, isues/epics, documentation/handbook MRs. Learn about my work values, strengths and weaknesses, working with me and more in my [README](https://handbook.gitlab.com/handbook/marketing/readmes/michael-friedrich/). 🌐
 
@@ -29,6 +29,10 @@ Full list in https://dnsmichi.at/portfolio/
 
 See https://dnsmichi.at/talks/ for the most current insights.
 
+- [GitLab DACH Roadshow 2025: Efficient DevSecOps workflows … with a little help from my AI Agents](https://dnsmichi.click/efficient-devsecops-ai-agents-gitlab-dach-roadshow-2025)
+- [Bitkom Forum Open Source 2025: Breaking and Entering (Open Source): AI for Swift Contribution](https://dnsmichi.click/oss-contributions-ai-bitkom-forum-open-source-2025)
+- [Container Days 2025: Evolving the Edge: AI, CI, and Hardware-in-the-Loop for Embedded](https://dnsmichi.click/evolving-edge-ai-ci-hil-embedded-container-days-2025)
+    - [![](https://img.youtube.com/vi/1DGolO9bEfo/0.jpg)](https://www.youtube.com/watch?v=1DGolO9bEfo "Container Days 2025: Evolving the Edge: AI, CI, and Hardware-in-the-Loop for Embedded")
 - [Open Source @ Siemens 2025: Learning AI 101: Practical Foundations for Developers](https://dnsmichi.click/learning-ai-101-os-siemens-2025)
     - [![](https://img.youtube.com/vi/6NxSJmpjxfo/0.jpg)](https://www.youtube.com/watch?v=6NxSJmpjxfo "Learning AI 101: Practical Foundations for Developers")
 - [Container Days 2024: Efficient DevSecOps workflows with a little help from AI](https://go.gitlab.com/7SDsCE)
