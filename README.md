@@ -6,6 +6,8 @@ Everything I learn on my journey is shared in blog posts, talks, workshops, live
 
 Follow me 👋  [@dnsmichi on LinkedIn](https://www.linkedin.com/in/dnsmichi/), [dnsmichi.dev on Bluesky](https://bsky.app/profile/dnsmichi.dev), [@dnsmichi@crashloop.social on Mastodon](https://crashloop.social/@dnsmichi)
 
+![GitLab Contributor Stats](https://contributors.gitlab.com/users/dnsmichi/banner.svg)
+
 ## 🌱 Blog posts
 
 Full list in https://dnsmichi.at/portfolio/ 
