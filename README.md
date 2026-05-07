@@ -1,8 +1,8 @@
 # 🌈 Hi, I'm Michael aka dnsmichi
 
-I'm a [Principal Developer Advocate at GitLab](https://about.gitlab.com/company/team/#dnsmichi). My Focus is Efficient Agentic AI adoption and (Embedded) DevSecOps 🦊 
+I'm a [Principal Developer Advocate at GitLab](https://about.gitlab.com/company/team/#dnsmichi). My Focus is Agentic AI modernization and (Embedded) DevSecOps 🦊 
 
-Everything I learn on my journey is shared in blog posts, talks, workshops, live streams, tutorials, isues/epics, documentation/handbook MRs. Learn about my work values, strengths and weaknesses, working with me and more in my [README](https://handbook.gitlab.com/handbook/marketing/readmes/michael-friedrich/). 🌐
+Everything I learn on my journey is shared in blog posts, talks, workshops, live streams, tutorials, documentation/handbook MRs. Learn about my work values, strengths and weaknesses, working with me and more in my [README](https://handbook.gitlab.com/handbook/marketing/readmes/michael-friedrich/). 🌐
 
 Follow me 👋  [@dnsmichi on LinkedIn](https://www.linkedin.com/in/dnsmichi/), [dnsmichi.dev on Bluesky](https://bsky.app/profile/dnsmichi.dev), [@dnsmichi@crashloop.social on Mastodon](https://crashloop.social/@dnsmichi)
 
@@ -12,24 +12,21 @@ Follow me 👋  [@dnsmichi on LinkedIn](https://www.linkedin.com/in/dnsmichi/), 
 
 Full list in https://dnsmichi.at/portfolio/ 
 
+- [Claude Code and GitLab: Three workflows that ship](https://about.gitlab.com/blog/claude-code-and-gitlab/)
 - [Custom rules in GitLab Duo Agentic Chat for greater developer efficiency](https://about.gitlab.com/blog/custom-rules-duo-agentic-chat-deep-dive/)
 - [Refactor code into modern languages with AI-powered GitLab Duo](https://about.gitlab.com/blog/2024/08/26/refactor-code-into-modern-languages-with-ai-powered-gitlab-duo/)
-- [Top tips for efficient AI-powered Code Suggestions with GitLab Duo](https://about.gitlab.com/blog/2024/06/11/top-tips-for-efficient-ai-powered-code-suggestions-with-gitlab-duo/)
-- [10 best practices for using AI-powered GitLab Duo Chat](https://go.gitlab.com/UQnuC4)
 - [Learning advanced Rust programming with a little help from AI](https://go.gitlab.com/dXWquG)
 - [Learning Rust with a little help from AI](https://go.gitlab.com/N0f6BK)
-- [How GitLab can help mitigate deletion of open source container images on Docker Hub](https://go.gitlab.com/LTsBCm)
 - [Efficient DevSecOps workflows: Hands-on python-gitlab API automation](https://go.gitlab.com/JPIoWd)
 - [Fantastic Infrastructure as Code security attacks and how to find them](https://about.gitlab.com/blog/2022/02/17/fantastic-infrastructure-as-code-security-attacks-and-how-to-find-them/)
 - [Top ten GitLab hacks for all stages of the DevOps Platform](https://about.gitlab.com/blog/2021/10/19/top-10-gitlab-hacks/)
-- [5 Great Phabricator features that inspired GitLab](https://about.gitlab.com/blog/2021/08/13/five-great-phabricator-features-inspired-gitlab/)
 - [10 tips to make you a productive GitLab user](https://about.gitlab.com/blog/2021/02/18/improve-your-gitlab-productivity-with-these-10-tips/)
 - [Tips for productive DevOps workflows: JSON formatting with jq and CI/CD linting automation](https://about.gitlab.com/blog/2021/04/21/devops-workflows-json-format-jq-ci-cd-lint/)
 - [How to use GitLab security features to detect log4j vulnerabilities](https://about.gitlab.com/blog/2021/12/15/use-gitlab-to-detect-vulnerabilities/)
 
 ## ⚡️ Talks & Activities
 
-See https://dnsmichi.at/talks/ for the most current insights.
+See https://dnsmichi.com/talks/ for the most current insights.
 
 - [GitLab DACH Roadshow 2025: Efficient DevSecOps workflows … with a little help from my AI Agents](https://dnsmichi.click/efficient-devsecops-ai-agents-gitlab-dach-roadshow-2025)
 - [Bitkom Forum Open Source 2025: Breaking and Entering (Open Source): AI for Swift Contribution](https://dnsmichi.click/oss-contributions-ai-bitkom-forum-open-source-2025)
