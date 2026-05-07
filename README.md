@@ -10,7 +10,7 @@ Follow me 👋  [@dnsmichi on LinkedIn](https://www.linkedin.com/in/dnsmichi/), 
 
 ## 🌱 Blog posts
 
-Full list in https://dnsmichi.at/portfolio/ 
+Full list in https://dnsmichi.com/portfolio/ 
 
 - [Claude Code and GitLab: Three workflows that ship](https://about.gitlab.com/blog/claude-code-and-gitlab/)
 - [Custom rules in GitLab Duo Agentic Chat for greater developer efficiency](https://about.gitlab.com/blog/custom-rules-duo-agentic-chat-deep-dive/)
@@ -47,10 +47,10 @@ Please follow the [Developer Advocate request template](https://handbook.gitlab.
 
 ## 🌐 All remote insights
 
-- [All-remote workspace](https://dnsmichi.at/all-remote-workspace/)
+- [All-remote workspace](https://dnsmichi.com/all-remote-workspace/)
 - [DerStandard.at interview (German)](https://www.derstandard.de/consent/tcf/story/2000124135517/developer-evangelist-ich-bin-mein-eigener-manager)
 - [My 1st year all-remote at GitLab](https://www.polywork.com/dnsmichi/highlights/013680c2-6479-4347-9687-e4ca637065b5)
-- [2 years all-remote and my 2022 vision](https://dnsmichi.at/2022/03/02/2-years-all-remote-and-2022-vision/)
-- [Three years all-remote at GitLab: Know the unknown unknowns (growth, life, and work)](https://dnsmichi.at/2023/03/02/three-years-all-remote-at-gitlab-know-the-unknown-unknowns-growth-life-work/)
-- [Michi, Limited Edition - 4 years all-remote at GitLab](https://dnsmichi.at/2024/03/02/michi-limited-edition-4-years-all-remote-at-gitlab/)
-- [My 5th Year at GitLab: Developer Advocate Journey, AI Adventures, and Finding Balance](https://dnsmichi.at/2025/03/02/my-5th-year-at-gitlab-developer-advocate-journey-ai-adventures-and-finding-balance/)
+- [2 years all-remote and my 2022 vision](https://dnsmichi.com/2022/03/02/2-years-all-remote-and-2022-vision/)
+- [Three years all-remote at GitLab: Know the unknown unknowns (growth, life, and work)](https://dnsmichi.com/2023/03/02/three-years-all-remote-at-gitlab-know-the-unknown-unknowns-growth-life-work/)
+- [Michi, Limited Edition - 4 years all-remote at GitLab](https://dnsmichi.com/2024/03/02/michi-limited-edition-4-years-all-remote-at-gitlab/)
+- [My 5th Year at GitLab: Developer Advocate Journey, AI Adventures, and Finding Balance](https://dnsmichi.com/2025/03/02/my-5th-year-at-gitlab-developer-advocate-journey-ai-adventures-and-finding-balance/)
