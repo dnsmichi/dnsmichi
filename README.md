@@ -12,6 +12,7 @@ Follow me 👋  [@dnsmichi on LinkedIn](https://www.linkedin.com/in/dnsmichi/), 
 
 Full list in https://dnsmichi.com/portfolio/ 
 
+- [Codex and GitLab: From code fix to production](https://about.gitlab.com/blog/fix-bugs-with-codex-and-gitlab/)
 - [Claude Code and GitLab: Three workflows that ship](https://about.gitlab.com/blog/claude-code-and-gitlab/)
 - [Custom rules in GitLab Duo Agentic Chat for greater developer efficiency](https://about.gitlab.com/blog/custom-rules-duo-agentic-chat-deep-dive/)
 - [Refactor code into modern languages with AI-powered GitLab Duo](https://about.gitlab.com/blog/2024/08/26/refactor-code-into-modern-languages-with-ai-powered-gitlab-duo/)
